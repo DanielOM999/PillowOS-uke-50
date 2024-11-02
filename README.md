@@ -23,7 +23,7 @@ The application uses the **Pillow** library to manipulate images, allowing users
 4. **Run the Python Script**: Execute the script to see the image processing in action:
      ```bash
      python your_script_name.py
-    ``
+    ```
 
 ## Features
 - **Resize Images**: Adjust the dimensions of images while maintaining aspect ratio.
